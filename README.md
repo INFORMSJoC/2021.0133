@@ -1,6 +1,6 @@
 # 2021.0133
 
-######Data files and scripts used in the article: Valeva, S., Pang, G., Schaefer, A.J. and Clermont, G., "Acuity-Based Allocation of ICU-Downstream Beds with Flexible Staffing."
+###### Data files and scripts used in the article: Valeva, S., Pang, G., Schaefer, A.J. and Clermont, G., "Acuity-Based Allocation of ICU-Downstream Beds with Flexible Staffing."
 
 ###### Data
 Contains instance and input files.
