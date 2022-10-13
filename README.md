@@ -19,7 +19,7 @@ To cite this software, please cite the [paper](https://doi.org/) using its DOI a
 Below is the BibTex for citing this version of the code.
 
 ```
-@article{SPGPcode,
+@article{ICUdata,
   author =        {T. {Valeva}, G. Pang, A.J. Schaefer and G. Clermont}},
   publisher =     {INFORMS Journal on Computing},
   title =         {Acuity-Based Allocation of ICU-Downstream Beds with Flexible Staffing},
