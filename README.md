@@ -1,6 +1,34 @@
 # 2021.0133
 
-###### Data files and scripts used in the article: Valeva, S., Pang, G., Schaefer, A.J. and Clermont, G., "Acuity-Based Allocation of ICU-Downstream Beds with Flexible Staffing."
+[![INFORMS Journal on Computing  Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
+
+This archive is distributed in association with the [INFORMS Journal on
+Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
+
+The software and data in this repository are a snapshot of the software and data
+that were used in the research reported on in the paper 
+[Acuity-Based Allocation of ICU-Downstream Beds with Flexible Staffing](https://doi.org/) 
+by Valeva, S., Pang, G., Schaefer, A.J. and Clermont, G. 
+
+## Cite
+
+To cite this software, please cite the [paper](https://doi.org/) using its DOI and the software itself using the following DOI.
+
+[![DOI](https://zenodo.org/badge/DOI/)](https://doi.org/)
+
+Below is the BibTex for citing this version of the code.
+
+```
+@article{SPGPcode,
+  author =        {T. {Valeva}, G. Pang, A.J. Schaefer and G. Clermont}},
+  publisher =     {INFORMS Journal on Computing},
+  title =         {Acuity-Based Allocation of ICU-Downstream Beds with Flexible Staffing},
+  year =          {2022},
+  doi =           {},
+  note =           {https://github.com/INFORMSJoC/2021.0133}
+}  
+```
+
 
 ###### Data
 Contains instance and input files.
