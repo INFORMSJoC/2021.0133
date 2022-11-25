@@ -21,7 +21,7 @@ Below is the BibTex for citing this version of the code.
 
 ```
 @article{ICUdata,
-  author =        {S. {Valeva}, G. Pang, A.J. Schaefer and G. Clermont}},
+  author =        {S. {Valeva}, G. Pang, A.J. Schaefer and G. Clermont},
   publisher =     {INFORMS Journal on Computing},
   title =         {Acuity-Based Allocation of ICU-Downstream Beds with Flexible Staffing},
   year =          {2022},
