@@ -12,7 +12,7 @@ by Valeva, S., Pang, G., Schaefer, A.J. and Clermont, G.
 
 ## Cite
 
-To cite this software, please cite the [paper]([https://doi.org/](https://doi.org/10.1287/ijoc.2022.1267) using its DOI and the software itself using the following DOI.
+To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2022.1267) using its DOI and the software itself using the following DOI.
 
 [![DOI](https://zenodo.org/badge/10.5281/zenodo.7194693.svg)](https://zenodo.org/badge/10.5281/zenodo.7194693.svg)
 
