@@ -7,7 +7,7 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](
 
 The software and data in this repository are a snapshot of the software and data
 that were used in the research reported on in the paper 
-[Acuity-Based Allocation of ICU-Downstream Beds with Flexible Staffing](https://doi.org/) 
+[Acuity-Based Allocation of ICU-Downstream Beds with Flexible Staffing](https://doi.org/10.1287/ijoc.2022.1267) 
 by Valeva, S., Pang, G., Schaefer, A.J. and Clermont, G. 
 
 ## Cite
