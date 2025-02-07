@@ -12,9 +12,7 @@ by Valeva, S., Pang, G., Schaefer, A.J. and Clermont, G.
 
 ## Cite
 
-To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2022.1267) using its DOI and the software itself using the following DOI.
-
-[![DOI](https://zenodo.org/badge/10.5281/zenodo.7194693.svg)](https://zenodo.org/badge/10.5281/zenodo.7194693.svg)
+To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2022.1267) using its DOI and the software itself using the following DOI: [https://doi.org/10.1287/ijoc.2022.1267.cd](https://doi.org/10.1287/ijoc.2022.1267.cd)
 
 
 Below is the BibTex for citing this version of the code.
@@ -25,8 +23,8 @@ Below is the BibTex for citing this version of the code.
   publisher =     {INFORMS Journal on Computing},
   title =         {Acuity-Based Allocation of ICU-Downstream Beds with Flexible Staffing},
   year =          {2022},
-  doi =           {10.5281/zenodo.7194693},
-  note =           {https://github.com/INFORMSJoC/2021.0133}
+  doi =           {10.1287/ijoc.2022.1267.cd},
+  note =          {https://github.com/INFORMSJoC/2021.0133}
 }  
 ```
 
